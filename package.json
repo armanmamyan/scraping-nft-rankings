@@ -1,0 +1,22 @@
+{
+  "name": "scraping-nft-rankings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-schedule": "^2.1.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "puppeteer": "^14.1.1",
+    "puppeteer-autoscroll-down": "^1.1.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-devtools": "^2.3.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
